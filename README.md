@@ -6,3 +6,25 @@ This is the Jupyter Notebook used for the Python Tips n Tricks presentation on 1
 Slides numbered 001 - 004 are the slides presented first as a basis. The other slides are for going deeper into the language.
 
 Any PR's or other feedback is welcome. 
+
+## Installation
+
+This requires python 3.7
+You can go ahead and download the latest python from [python.org](https://www.python.org/)
+
+You can use the `requirements.txt`:
+```bash
+pip install -r requirements.txt
+```
+
+Or if you have pipenv:
+```bash
+pipenv install
+```
+
+## Running
+
+Once you've installed all you need to do is:
+```bash
+jupyter notebook
+```
