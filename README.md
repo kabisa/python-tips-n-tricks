@@ -2,8 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/174411/59488122-ef1a1c00-8e7e-11e9-9d2b-3b61a2a28bc8.png)
 
-This is the Jupyter Notebook used for the Python Tips n Tricks presentation on 13th June 2019 at the Kabisa Python/Django meetup.
-Slides numbered 001 - 004 are the slides presented first as a basis. The other slides are for going deeper into the language.
+This is the Jupyter Notebook used for the Python Tips n Tricks presentations on 13th June 2019 and 26th September at the Kabisa Python (Django) meetups.
+
+Slides numbered 001 - 004 are the slides presented on 13th June 2019 (Python/Django meetup)
+Slides numbered 005 - 011 are the slides presented on 26th September (Python meetup)
+
+![image](https://user-images.githubusercontent.com/174411/65747616-2b0d8000-e102-11e9-90d4-0cda5a0c2251.png)
+![image](https://user-images.githubusercontent.com/174411/65747775-9b1c0600-e102-11e9-8f32-3ee312a25613.png)
 
 Any PR's or other feedback is welcome. 
 
